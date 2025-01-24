@@ -1,6 +1,6 @@
 {
   "name": "expressbackendsprebuild",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,9 @@
   "description": "Express backend Template developed for the backend developer",
   "dependencies": {
     "fs": "^0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PradeepSahhu/expressBackendTemplate-NPM.git"
   }
 }
